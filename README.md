@@ -60,7 +60,7 @@
 
 2. #### [Grafana Dashboard](https://grafana.com/grafana/)
 
-   用于宏观数据的观察（各接口请求量，耗时等）、告警配置以及[`SRE`](https://sre.google/)标准化的建设
+   用于宏观数据的观察（各接口请求量，耗时等）、告警配置以及[`SRE`](https://sre.google/)标准化的建设(**监控插件接入数量、对流水线机器的性能消耗等**)
 
 3. #### Keyman算法优化
 
